@@ -45,3 +45,6 @@ Data processing/cleaning using python
 Plotting statistical data to draw insights
 
 Documentation of the whole process
+
+# Recommendations
+
