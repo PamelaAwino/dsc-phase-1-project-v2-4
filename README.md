@@ -1,5 +1,8 @@
 
 # Analysis of Movies
+![image](https://user-images.githubusercontent.com/124348072/224150352-23350879-d506-4673-9d8d-609ff06851c6.png)
+
+
 
  Project Status: [Completed]
 # Project Intro/Objective
