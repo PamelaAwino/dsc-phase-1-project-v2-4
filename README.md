@@ -7,7 +7,7 @@
  Project Status: [Completed]
 # Project Intro/Objective
 
-In this project, I aimed to find good business solutions to Microsoft company which is creating a new movie studio. I tried to find best genres to invest and best language films according to ratings. Then, I want to discuss these genres accoring to best profit. We aimed to find best release date of films also, and try to find whether foreign investments are needed. To find answers to this questions, I grabbed data from different sources.
+I have been tasked with assisting Microsoft in their venture into the movie industry. My goal was to explore what type of films are currently doing the best at the box office and to provide these findings to Microsoft's new movie studio executives. My analysis of the movie industry, achieved by garnering data and utilizing descriptive statistics and visualizations, has shown that a larger budget is correlated with a higher worldwide box office gross. Microsoft can use this report to target their production budget, genre and release-time of their upcoming movie endeavors to generate the highest amount of revenue possible.
 
  # Methods Used
 
@@ -36,13 +36,24 @@ Secondly, with web scraping using BeautifulSoup we grabbed budget and revenues f
 
 # Needs of this project
 
-Data Extraction through Web Scrapping and API methodology
+Data Extraction 
 
-Data processing/cleaning using python
+Data processing
+
+Data cleaning using python
 
 Plotting statistical data to draw insights
 
 Documentation of the whole process
 
 # Recommendations
+
+I would recoomend Microsoft campany to produce the following movies which generated the highest revenues both worldwide and domestically:
+
+    > Avater 
+
+    > Star Wars Ep. VII: The force Awakens
+
+    > Avengers:Infinity War
+I would recommend the above movies to be released in December which generated the highest domestic and worldwide revenue.
 
