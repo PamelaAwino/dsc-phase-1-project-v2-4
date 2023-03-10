@@ -21,6 +21,8 @@ Pandas
 
 Jupyter notebook
 
+Sqlite3
+
 # Project Description
 
 First, I dived into asking questions for decision making regarding opening a new movie studio.
