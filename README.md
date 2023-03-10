@@ -25,14 +25,15 @@ Sqlite3
 
 # Project Description
 
-First, I dived into asking questions for decision making regarding opening a new movie studio.
-Considering the best vote average values, which genres are good to invest, and which languages also?
-Considering the best profit, which genres are good to invest and also what is the percantage of top 5 genres?
-Choosing a right release time-Which month of the year is best for highest revenue and when films are commonly released?
-Investment into foreign releases and foreign marketing?
-To find answers to these questions, I collected data from three different sources. Firstly, from www.themoviedb.org we grabbed two data sets. First one is for best 20 revenue films according to years. Second one is for best rated 1500 films. The websites has the data related to movies and we used API methodology to extract the data needed for our analysis. The genre codes and their respective words are also grabbed from the same website.
-
-Secondly, with web scraping using BeautifulSoup we grabbed budget and revenues for movies. To do this, we used the-numbers.com website and Boxofficemojo.com. Then, we merged them and clean them for useful format. And, plot our results for every question to see them obviously.
+First, I dived into asking questions for decision making regarding opening a new movie studio. What type of data do I have for analysis?
+How was this data selected and why is it important to answer the above business problem?
+What type of movie genres are currently existing in the market?
+What is the cost of production of these movie genres?
+What are the features of these movie genres? Duration, Directors, Actors, Studios produced, etc?
+What are the movie box offices for these genres?
+What are the net incomes of these movie genres?
+What are the Returns on Investment for these movie genres?
+What type of movie genres are most profitable?
 
 # Needs of this project
 
