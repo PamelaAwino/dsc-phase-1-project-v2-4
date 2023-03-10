@@ -58,3 +58,6 @@ I would recoomend Microsoft campany to produce the following movies which genera
     > Avengers:Infinity War
 I would recommend the above movies to be released in December which generated the highest domestic and worldwide revenue.
 
+I would recommend Microsoft to produce a lot of Drama genres, Documentary and Comedy since these three, in the order, recored highest number of voters.
+
+
