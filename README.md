@@ -49,15 +49,15 @@ Documentation of the whole process
 
 # Recommendations
 
-I would recoomend Microsoft campany to produce the following movies which generated the highest revenues both worldwide and domestically:
+I would recommend Microsoft campany to produce the following movies which generated the highest revenues both worldwide and domestically:
 
-    > Avater 
+    > Avatar 
 
     > Star Wars Ep. VII: The force Awakens
 
     > Avengers:Infinity War
 I would recommend the above movies to be released in December which generated the highest domestic and worldwide revenue.
 
-I would recommend Microsoft to produce a lot of Drama genres, Documentary and Comedy since these three, in the order, recored highest number of voters.
+I would recommend Microsoft to produce a lot of Drama genres, Documentary and Comedy since these three, in the order, recorded highest number of voters.
 
 
